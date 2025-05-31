@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lufuno\\source\\repos\\17710049\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB440AC8-4B75-4E78-9701-58A6364B37C8}|17710049\\17710049.vcxproj|C:\\Users\\Lufuno\\source\\repos\\17710049\\17710049\\17710049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB440AC8-4B75-4E78-9701-58A6364B37C8}|17710049\\17710049.vcxproj|solutionrelative:17710049\\17710049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "17710049.cpp",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\source\\repos\\17710049\\17710049\\17710049.cpp",
+              "RelativeDocumentMoniker": "17710049\\17710049.cpp",
+              "ToolTip": "C:\\Users\\Lufuno\\source\\repos\\17710049\\17710049\\17710049.cpp",
+              "RelativeToolTip": "17710049\\17710049.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAJ0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T13:28:04.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
